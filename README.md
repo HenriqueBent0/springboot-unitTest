@@ -4,7 +4,7 @@
 Este projeto é uma aplicação Java Spring Boot com Testes Unitários
 
 ## 💻 Tecnologias Utilizadas
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![JUnit](https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![JUnit](https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit&logoColor=white) ![H2](https://img.shields.io/badge/H2-4E6F1F.svg?style=for-the-badge&logo=h2&logoColor=white)
 
 
 ## Funcionalidades
