@@ -33,7 +33,10 @@ Este projeto é uma aplicação Java Spring Boot com Testes Unitários
 - `PUT /users/{id}` - Atualiza um usuário existente.
 - `DELETE /users/{id}` - Remove um usuário.
 
-## 🧪 Testes Unitários
-Os testes unitários foram implementados para garantir que os serviços de usuários funcionem corretamente. Utilizamos o **JUnit 5** e **Mockito** para simular o comportamento das dependências.
+## 🧪 Testes Unitários e de Integração
+**Testes Unitários:**
+Os testes unitários foram implementados para garantir que os serviços de usuários funcionem corretamente. Utilizamos o JUnit 5 e Mockito para simular o comportamento das dependências e testar as funcionalidades de CRUD.
 
+**Testes de Integração:**
+Os testes de integração garantem que os componentes da aplicação, como o banco de dados, a API e os serviços, funcionem corretamente em conjunto. Para os testes de integração, utilizamos o MockMvc, Spring Boot Test, e o H2 (banco de dados em memória).
 
