@@ -1,4 +1,4 @@
-# Sistema de Gestão de Usuários com Testes Unitários
+# Sistema de Gestão de Usuários com Testes Unitários e de Integração
 
 ## 📖 Introdução
 Este projeto é uma aplicação Java Spring Boot com Testes Unitários
@@ -10,6 +10,7 @@ Este projeto é uma aplicação Java Spring Boot com Testes Unitários
 ## Funcionalidades
 - **CRUD de Usuários:** Adicionar, visualizar, atualizar e remover usuários.
 - **Testes Unitários:** Garantir que as funcionalidades de CRUD e busca funcionem corretamente com testes automatizados.
+- **Testes de Integração:** Verificar a comunicação entre os componentes do sistema, garantindo que o fluxo de dados entre o banco de dados e a aplicação funcione conforme esperado.
 
 ## Como Configurar e Executar
 
